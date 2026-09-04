@@ -1,0 +1,24 @@
+{
+  "name": "wechat-moments-sales-copilot",
+  "version": "1.0.0",
+  "description": "朋友圈成交助手:分析客户微信朋友圈截图,输出客户商业画像、购买信号分级、分层触达话术与朋友圈海报配图,把朋友圈变成销售情报源与成交触点。面向销售/私域运营/微商/保险/房产/教育从业者。",
+  "keywords": [
+    "朋友圈",
+    "销售",
+    "私域运营",
+    "客户洞察",
+    "微信营销",
+    "客户画像",
+    "话术",
+    "营销海报",
+    "sales",
+    "wechat moments",
+    "customer insight"
+  ],
+  "author": "孙嘉隆",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "SKILL.md",
+  "icon": "",
+  "homepage": ""
+}
